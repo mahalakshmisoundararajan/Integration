@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
   <TalendProperties:Project xmi:id="_fWPOMb2gEeiIbeDLMK64zg" label="Integration" language="java" technicalLabel="INTEGRATION" author="_fWPOMr2gEeiIbeDLMK64zg" productVersion="Talend Cloud Data Management Platform-7.0.1.20180411_1414" url="{&quot;location&quot;:&quot;https://github.com/mahalakshmisoundararajan/Integration.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <technicalStatus xmi:id="_FhtDsL2hEeiIbeDLMK64zg" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_FhtDsb2hEeiIbeDLMK64zg" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_FhtDsr2hEeiIbeDLMK64zg" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_Fhav0L2hEeiIbeDLMK64zg" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_Fhav0b2hEeiIbeDLMK64zg" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_Fhav0r2hEeiIbeDLMK64zg" label="validated" code="VAL"/>
     <migrationTask xmi:id="_FfCKML2hEeiIbeDLMK64zg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_FfCKMb2hEeiIbeDLMK64zg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_FfCKMr2hEeiIbeDLMK64zg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
